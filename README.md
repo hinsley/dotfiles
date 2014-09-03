@@ -5,8 +5,9 @@ Self-explanatory
 ##Directories
 
 ###~/
-`.xinitrc`
 `.vimrc`
+
+`.xinitrc`
 
 ###~/.weechat/
 `weechat.conf`
