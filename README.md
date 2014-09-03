@@ -7,3 +7,6 @@ Self-explanatory
 ###~/
 `.xinitrc`
 `.vimrc`
+
+###~/.weechat/
+`weechat.conf`
