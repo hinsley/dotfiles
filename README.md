@@ -7,6 +7,8 @@ Self-explanatory
 ###~/
 `.vimrc`
 
+`.Xresources`
+
 `.xinitrc`
 
 ###~/.weechat/
