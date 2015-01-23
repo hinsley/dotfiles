@@ -5,6 +5,8 @@ Self-explanatory
 ##Directories
 
 ###~/
+`.bashrc`
+
 `.vimrc`
 
 `.Xresources`
