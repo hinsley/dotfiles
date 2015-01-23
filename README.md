@@ -13,3 +13,6 @@ Self-explanatory
 
 ###~/.weechat/
 `weechat.conf`
+
+###~/dwm/
+`config.h`
