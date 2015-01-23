@@ -11,6 +11,8 @@ Self-explanatory
 
 `.xinitrc`
 
+`checkbattery.sh`
+
 ###~/.weechat/
 `weechat.conf`
 
