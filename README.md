@@ -7,6 +7,8 @@ Self-explanatory
 ###~/
 `.bashrc`
 
+`.irssirc`
+
 `.vimrc`
 
 `.Xresources`
