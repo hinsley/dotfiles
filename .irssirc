@@ -1,2 +1,3 @@
 /alias w window
 /alias ns msg nickserv
+/alias cs msg chanserv
