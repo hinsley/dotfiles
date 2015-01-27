@@ -9,6 +9,8 @@ Self-explanatory
 
 `.irssirc`
 
+`.tmux.conf`
+
 `.vimrc`
 
 `.Xresources`
