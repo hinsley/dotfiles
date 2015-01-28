@@ -24,3 +24,6 @@ Self-explanatory
 
 ###~/dwm/
 `config.h`
+
+###~/vps/
+`heimdall.sh`
