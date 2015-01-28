@@ -9,3 +9,5 @@ export LD_LIBRARY_PATH="/usr/local/lib"
 
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
+
+alias ssh='TERM=xterm-color ssh'
