@@ -7,6 +7,7 @@
 
 export LD_LIBRARY_PATH="/usr/local/lib"
 export EDITOR="vim"
+export TERM="xterm-color"
 
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
