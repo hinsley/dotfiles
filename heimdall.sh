@@ -2,7 +2,7 @@
 
 if [ $# == 0 ]
 then
-    echo "No arguments provided."
+    echo "No arguments or flags provided. Try '-u <username>'."
     exit 1
 fi
 
