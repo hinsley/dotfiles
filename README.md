@@ -4,6 +4,9 @@ Self-explanatory
 
 ##Directories
 
+###/usr/local/bin/
+`pomf`
+
 ###~/
 `.bashrc`
 
