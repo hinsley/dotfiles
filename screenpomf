@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+scrot pomftmpimg.png
+curl -F files[]="@pomftmpimg.png" "https://pomf.se/upload.php?output=gyazo"
+echo ""
+rm pomftmpimg.png
+

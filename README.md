@@ -5,7 +5,7 @@ Self-explanatory
 ##Directories
 
 ###/usr/local/bin/
-`pomf`
+`screenpomf`
 
 ###~/
 `.bashrc`
