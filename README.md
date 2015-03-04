@@ -8,9 +8,9 @@ Self-explanatory
 `screenpomf`
 
 ###~/
-`.bashrc`
-
 `.irssirc`
+
+`.kshrc`
 
 `.tmux.conf`
 
