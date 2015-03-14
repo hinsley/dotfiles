@@ -4,23 +4,26 @@ URxvt.matcher.button: 1
 URxvt.font: xft:terminus:size=9
 URxvt.scrollBar: false
 
-! Molokai theme
-URxvt*background: #101010
-URxvt*foreground: #d0d0d0
-URxvt*color0:     #101010
-URxvt*color1:     #960050
-URxvt*color2:     #66aa11
-URxvt*color3:     #c47f2c
-URxvt*color4:     #30309b
-URxvt*color5:     #7e40a5
-URxvt*color6:     #3579a8
-URxvt*color7:     #9999aa
-URxvt*color8:     #303030
-URxvt*color9:     #ff0090
-URxvt*color10:    #80ff00
-URxvt*color11:    #ffba68
-URxvt*color12:    #5f5fee
-URxvt*color13:    #bb88dd
-URxvt*color14:    #4eb4fa
-URxvt*color15:    #d0d0d0
+!! smear - dcat
+
+URxvt*background:    #20242c
+URxvt*foreground:    #b3b8c4
+
+URxvt*color0:    #3e4853
+URxvt*color1:    #b06a58
+URxvt*color2:    #95b47b
+URxvt*color3:    #e5c078
+URxvt*color4:    #58698c
+URxvt*color5:    #7b5e8d
+URxvt*color6:    #82a1b2
+URxvt*color7:    #cccaca
+
+URxvt*color8:    #525c67
+URxvt*color9:    #ba7e6c
+URxvt*color10:   #a9c88f
+URxvt*color11:   #f9d48c
+URxvt*color12:   #6c7da0
+URxvt*color13:   #8f72a1
+URxvt*color14:   #96b5c6
+URxvt*color15:   #e0dede
 
