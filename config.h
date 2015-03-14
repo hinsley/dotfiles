@@ -2,12 +2,12 @@
 
 /* appearance */
 static const char font[]            = "-*-terminus-medium-r-*-*-16-*-*-*-*-*-*-*";
-static const char normbordercolor[] = "#101010";
-static const char normbgcolor[]     = "#000000";
-static const char normfgcolor[]     = "#bbbbbb";
-static const char selbordercolor[]  = "#202077";
-static const char selbgcolor[]      = "#772020";
-static const char selfgcolor[]      = "#eeeeee";
+static const char normbordercolor[] = "#20242c";
+static const char normbgcolor[]     = "#20242c";
+static const char normfgcolor[]     = "#b3b8c4";
+static const char selbordercolor[]  = "#960050";
+static const char selbgcolor[]      = "#d0d0d0";
+static const char selfgcolor[]      = "#b3b8c4";
 static const unsigned int borderpx  = 1;        /* border pixel of windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const Bool showbar           = True;     /* False means no bar */
@@ -29,8 +29,8 @@ static const Bool resizehints = False; /* True means respect size hints in tiled
 
 static const Layout layouts[] = {
 	/* symbol     arrange function */
-	{ "[]=",      tile },    /* first entry is default */
-	{ "><>",      NULL },    /* no layout function means floating behavior */
+	{ "[T]",      tile },    /* first entry is default */
+	{ "[F]",      NULL },    /* no layout function means floating behavior */
 	{ "[M]",      monocle },
 };
 
