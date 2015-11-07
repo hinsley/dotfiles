@@ -9,6 +9,7 @@ export LD_LIBRARY_PATH="/usr/local/lib"
 export EDITOR="vim"
 export TERM="xterm-color"
 export GOPATH=$HOME/.go
+export GOROOT=/usr/lib/go
 export PATH=/home/xnil/.cabal/bin:$GOPATH/bin:$PATH
 
 alias ls='ls --color=auto'
