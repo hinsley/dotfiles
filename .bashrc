@@ -6,7 +6,7 @@
 [[ $- != *i* ]] && return
 
 export LD_LIBRARY_PATH="/usr/local/lib"
-export EDITOR="vim"
+export EDITOR="nvim"
 export TERM="xterm-color"
 export GOPATH=$HOME/.go
 export GOROOT=/usr/lib/go
