@@ -1,8 +1,8 @@
 dotfiles
 ========
-Self-explanatory
+Should be pretty self-explanatory.
 
-##Directories
+## Directories
 
 ###/usr/local/bin/
 `screenpomf`
