@@ -4,10 +4,10 @@ Should be pretty self-explanatory.
 
 ## Directories
 
-###/usr/local/bin/
+### /usr/local/bin/
 `screenpomf`
 
-###~/
+### ~/
 `.bashrc`
 
 `.irssirc`
@@ -22,13 +22,13 @@ Should be pretty self-explanatory.
 
 `checkbattery.sh`
 
-###~/.weechat/
+### ~/.weechat/
 `weechat.conf`
 
-###~/dwm/
+### ~/dwm/
 `config.h`
 
-###~/vps/
+### ~/vps/
 `heimdall.sh`
 
 `hungry.sh`
