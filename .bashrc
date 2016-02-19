@@ -10,9 +10,8 @@ export EDITOR="vim"
 export TERM="xterm-color"
 export GOPATH=$HOME/.go
 export GOROOT=/usr/lib/go
-export PATH=/home/xnil/.cabal/bin:$GOPATH/bin:$PATH
+export PATH=/home/xnil/.cabal/bin:$GOPATH/bin:/home/xnil/.local/bin:$PATH
 
 alias ls='ls --color=auto'
-PS1='[\u@\h \W]\$ '
 
 alias ssh='TERM=xterm-color ssh'
